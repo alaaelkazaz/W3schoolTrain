@@ -1,0 +1,103 @@
+#nav{
+	position: absolute;
+	top:0px;
+	height: 250px;
+	width: 100%;
+	background-color:#F1F1F1;
+	margin:0px;
+}
+#mainheader {
+	position: absolute;
+	top:40px;
+	left:530px;
+	font-family: "Segoe UI",Arial,sans-serif;
+	font-weight:400;
+	font-size: 64px;
+}
+
+#photo{
+	position: absolute;
+	left: 35px;
+	top:265px;
+	width: 900px;
+	height: 600px;
+}
+#heading{
+	font-size: 30px;
+	position: absolute;
+	top:860px;
+	left: 35px;
+	font-family: "Segoe UI",Arial,sans-serif;
+	font-weight:400;
+	
+}
+#maintext{
+	position: absolute;
+	top:940px;
+	left: 35px;
+	width: 900px;
+	height: 550px;
+
+}
+#new-1{
+	position: absolute;
+	right: 35px;
+	top:265px;
+	height:300px;
+	width: 440px;
+	background-color: #F1F1F1;
+ 	font-family: "Segoe UI",Arial,sans-serif;
+	font-weight:400;
+	font-size: 15px;
+	padding: 10px;
+}
+#new-2{
+	position: absolute;
+	right: 35px;
+	top:600px;
+	height:300px;
+	width: 440px;
+	background-color: #F1F1F1;
+	font-size:15px;
+	font-family: "Segoe UI",Arial,sans-serif;
+	font-weight:400;
+	border-width: 10px;
+	padding: 10px;
+	
+}
+
+#new-3{
+	position: absolute;
+	right: 35px;
+	top:940px;
+	height:300px;
+	width: 440px;
+	background-color: #F1F1F1;
+	font-size:15px;
+	font-family: "Segoe UI",Arial,sans-serif;
+	font-weight:400;
+	padding: 10px;
+
+
+}
+#headd1{
+font-family:verdana,sans-serif;
+font-size:30px;
+font-family: "Segoe UI",Arial,sans-serif;
+	font-weight:400;
+
+}
+#headd2{
+font-family:verdana,sans-serif;
+font-size:30px;
+font-family: "Segoe UI",Arial,sans-serif;
+font-weight:400;
+
+}
+#headd3{
+font-family:verdana,sans-serif;
+font-size:30px;
+font-family: "Segoe UI",Arial,sans-serif;
+	font-weight:400;
+
+}
